@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Filipe Brito, a **Full Stack Developer** (specializing in **.NET Applications**). I graduated from Software Engineering in Waterloo, ON at Conestoga College.
+🎓 I am Filipe Brito, a **Full Stack Developer** (specializing in **.NET Applications**). I graduated from Software Engineering in Waterloo, ON at Conestoga College (2023).
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **language learning**, **hiking**, **illustrating**, and **touch typing** to some whacky ones like **finding typos on signs**.
 
