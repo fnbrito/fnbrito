@@ -8,7 +8,7 @@
 
 📚 I like reading books on **personal development**. My favorite one is **12 Rules for Life** by _Jordan Peterson_ in the genre of personal development, as it helped me a lot during difficult times in the past.
 
-⚽ I'm originally from Brazil and I love **traveling**. I have been on solo trips to **France** in _2018_ and to **Paraguay and Argentina** in _2017_.
+⚽ I'm originally from Brazil 🇧🇷 and I love **traveling**. I have been on solo trips to **France** in _2018_ and to **Paraguay and Argentina** in _2017_.
 
 ## 🏅 Achievements
 
