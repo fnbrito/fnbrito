@@ -12,7 +12,7 @@
 
 ## 🏅 Achievements
 
--   🌟 **Best Capstone of 2023** at _Conestoga College_ (April 2022)
+-   🌟 **Best Capstone of 2023** at _Conestoga College_
 
 ## 🛠️ Skills
 
